@@ -1,3 +1,4 @@
 //script.js
-let mensaje = "Hola Mundo!"
+let nombre = "Horacio"
+let mensaje = `Hola Mundo!, mi nombre es ${nombre}`
 console.log(mensaje)
