@@ -1,2 +1,3 @@
 //script.js
-console.log("Hola Mundo!")
+let mensaje = "Hola Mundo!"
+console.log(mensaje)
