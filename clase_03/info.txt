@@ -1,0 +1,15 @@
+git clone <url> : Nos descarga una copia de todos los objetos dentro de la rama master 
+
+REVERT : revierte los cambios de un/os commit/s sin modificar el historial previo, sino que genera mas historial dentro del repositorio
+
+
+RESET : Mueve el HEAD a una ubicacion anterior del repositorio 
+
+	--soft : 
+
+	--mixed : 
+
+	--hard : 
+
+
+REFLOG : Es un log de acciones hechas en el repositorio
